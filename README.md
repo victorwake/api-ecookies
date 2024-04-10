@@ -1,1 +1,2 @@
-# api-ecookies
+# npm install
+# npm run dev
