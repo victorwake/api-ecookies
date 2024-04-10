@@ -1,0 +1,439 @@
+{
+    "catalogue": [
+        {
+            "categoryTag": [],
+            "defaultValue": "1",
+            "description": "<p><span>Estas cookies permiten al usuario la navegaci\u00f3n a trav\u00e9s de una p\u00e1gina web, plataforma o aplicaci\u00f3n y la utilizaci\u00f3n de las diferentes opciones o servicios que en ella existan como controlar el tr\u00e1fico y la comunicaci\u00f3n de datos, identificar la sesi\u00f3n, acceder a partes de acceso restringido, recordar los elementos que integran un pedido, realizar el proceso de compra de un pedido, realizar la solicitud de inscripci\u00f3n o participaci\u00f3n en un evento, utilizar elementos de seguridad durante la navegaci\u00f3n, almacenar contenidos para la difusi\u00f3n de videos o sonido o compartir contenidos a trav\u00e9s de redes sociales. Estas cookies no pueden rechazarse, pues resultan necesarias para el funcionamiento del portal web.</span></p>",
+            "cockies": [
+                {
+                    "cookie": "c7vNaN",
+                    "cookieID": "f720fa5e8ff111e8969c02d79b364511",
+                    "cookieNamePattern": "SS_X_JSESSIONID",
+                    "text": "SS_X_JSESSIONID",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c4vNaN",
+                    "cookieID": "f720fa5e8ff111e8969c02d79b364512",
+                    "cookieNamePattern": "JSESSIONID",
+                    "text": "JSESSIONID",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c4vNaN",
+                    "cookieID": "b1a4417f794f93b313a05317f794f93b3",
+                    "cookieNamePattern": "OptanonConsent",
+                    "text": "OptanonConsent",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;Optanon<br></p>"
+                },
+                {
+                    "cookie": "c4vNaN",
+                    "cookieID": "e708417f794fda291ae32617f794fda29",
+                    "cookieNamePattern": "OptanonalertBoxClosed",
+                    "text": "OptanonalertBoxClosed",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookieID": "a6ba417f8d26d3bb15580917f8d26d3bb",
+                    "cookieNamePattern": "s_cc",
+                    "text": "s_cc",
+                    "cookie": "c5v1",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookieID": "685db17f8d26f9786b89217f8d26f978",
+                    "cookieNamePattern": "s_sq",
+                    "text": "s_sq",
+                    "cookie": "c6v1",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c7v1",
+                    "cookieID": "55d6817f8d272209a975317f8d272209",
+                    "cookieNamePattern": "AMCV_*",
+                    "text": "AMCV_*",
+                    "value": "1",
+                    "version": "1",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c8v1",
+                    "cookieID": "8284718211fcf87c15164b18211fcf87c",
+                    "cookieNamePattern": "elixactivegroups",
+                    "domains": [],
+                    "text": "elixactivegroups",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c9v1",
+                    "cookieID": "596b51826388f17b125b4f1826388f17b",
+                    "domains": [],
+                    "cookieNamePattern": "wpa_AppClick",
+                    "text": "wpa_AppClick",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c10v1",
+                    "cookieID": "36501886cec221956e0f1886cec2219",
+                    "domains": [],
+                    "cookieNamePattern": "token",
+                    "text": "token",
+                    "value": "1",
+                    "example": ""
+                }
+            ],
+            "revocable": "0",
+            "category": "k1v2",
+            "title": "Cookies t\u00e9cnicas (necesarias)",
+            "value": "1"
+        },
+        {
+            "categoryTag": [],
+            "defaultValue": "0",
+            "description": "<p><span>Estas cookies permiten cuantificar el n\u00famero de usuarios y as\u00ed realizar la medici\u00f3n y an\u00e1lisis estad\u00edstico de la utilizaci\u00f3n que hacen del servicio ofertado. Para ello se analiza tu navegaci\u00f3n en nuestro sitio web con el fin de mejorar la oferta de productos o servicios que te ofrecemos. Estas cookies nos permiten contar las visitas y fuentes de circulaci\u00f3n para poder medir y mejorar el desempe\u00f1o de nuestro sitio. Nos ayudan a saber qu\u00e9 p\u00e1ginas son las m\u00e1s o menos populares, y ver cu\u00e1ntas personas visitan el sitio. Toda la informaci\u00f3n que recogen estas cookies es agregada y, por lo tanto, an\u00f3nima. Si no permite la descarga de estas cookies no sabremos cu\u00e1ndo visit\u00f3 nuestro sitio, y por lo tanto no podremos saber cu\u00e1ndo lo visit\u00f3.</span></p>",
+            "cockies": [
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "f920fa5e8ff111e8969c02d79b364521",
+                    "cookieNamePattern": "_hjid",
+                    "text": "_hjid",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;Google<br></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "f920fa5e8ff111e8969c02d79b364522",
+                    "cookieNamePattern": "^_ga*",
+                    "text": "_ga",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "f920fa5e8ff111e8969c02d79b364525",
+                    "cookieNamePattern": "^_gid*",
+                    "text": "_gid",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "f920fa5e8ff111e8969c02d79b364523",
+                    "cookieNamePattern": "^_gcl*",
+                    "text": "_gclxxxx",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "f920fa5e8ff111e8969c02d79b364524",
+                    "cookieNamePattern": "^_gat_UA-*",
+                    "text": "_gat_UA-",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "876bd17f7951c012db25117f7951c012",
+                    "cookieNamePattern": "_hjIncludedInPageviewSample",
+                    "text": "_hjIncludedInPageviewSample",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "b40c217f7951f78a1ab53d17f7951f78a",
+                    "cookieNamePattern": "_hjAbsoluteSessionInProgress",
+                    "text": "_hjAbsoluteSessionInProgress",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c5vNaN",
+                    "cookieID": "227b17f79522ee6d48e117f79522ee6",
+                    "cookieNamePattern": "_hjTLDTest",
+                    "text": "_hjTLDTest",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c6v1",
+                    "cookieID": "944d01821106a1c810bd2e1821106a1c8",
+                    "cookieNamePattern": "^s_ecid$",
+                    "domains": [],
+                    "text": "Adobe Analytics",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c7v1",
+                    "cookieID": "f49e41821106dcfd183a4c1821106dcfd",
+                    "cookieNamePattern": "^AMCV_",
+                    "domains": [],
+                    "text": "Adobe Analitics",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c8v1",
+                    "cookieID": "668a218211072313cf48a18211072313",
+                    "cookieNamePattern": "^s_cc$",
+                    "domains": [],
+                    "text": "Adobe Analitics",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c9v1",
+                    "cookieID": "ccdcf1821107739619d91518211077396",
+                    "cookieNamePattern": "^s_sq$",
+                    "domains": [],
+                    "text": "Adobe Analitics",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c10v1",
+                    "cookieID": "c6dd31821107c6c810b4fd1821107c6c8",
+                    "cookieNamePattern": "^s_vi$",
+                    "domains": [],
+                    "text": "Adobe Analitics",
+                    "value": "1",
+                    "example": ""
+                },
+                {
+                    "cookie": "c2v1",
+                    "cookieID": "d0a20182110814ca1728b2182110814ca",
+                    "cookieNamePattern": "^s_fid$",
+                    "domains": [],
+                    "text": "Adobe Analitics",
+                    "value": "1",
+                    "example": ""
+                }
+            ],
+            "revocable": "1",
+            "category": "k3v2",
+            "title": "Cookies anal\u00edticas",
+            "value": "1"
+        },
+        {
+            "categoryTag": [
+                {
+                    "value": "ec_comercial"
+                },
+                {
+                    "value": "ec_comercial_admin"
+                },
+                {
+                    "value": "ec_rrhh"
+                },
+                {
+                    "value": "ec_rrhh_admin"
+                },
+                {
+                    "value": "ec_marketing"
+                },
+                {
+                    "value": "ec_marketing_admin"
+                },
+                {
+                    "value": "ec_asesoria"
+                }
+            ],
+            "defaultValue": "0",
+            "description": "<p>Publicidad: Permiten gestionar de la forma m\u00e1s eficaz posible la oferta de los espacios publicitarios del sitio web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestro sitio web. Para ello, podemos analizar tus h\u00e1bitos de navegaci\u00f3n en Internet y mostrarte publicidad relacionada con tu perfil. </p><p>Publicidad comportamental: Son las que permiten la gesti\u00f3n, de la forma m\u00e1s eficaz posible, de los espacios publicitarios incluidos en el sitio web, aplicaci\u00f3n o plataforma desde la que presta el servicio solicitado. Estas cookies almacenan informaci\u00f3n del comportamiento de los usuarios obtenida a trav\u00e9s de la observaci\u00f3n continuada de sus h\u00e1bitos de navegaci\u00f3n, lo que permite desarrollar un perfil espec\u00edfico para mostrar publicidad.</p>",
+            "cockies": [
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "5b56c17f7956351614ca7c17f79563516",
+                    "cookieNamePattern": "GoogleAdServingTest",
+                    "text": "GoogleAdServingTest",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;Google<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "195d417f79566895a711817f79566895",
+                    "cookieNamePattern": "test_cookie",
+                    "text": "test_cookie",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;Facebook<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "cb34517f7956b03712f16e17f7956b037",
+                    "cookieNamePattern": "^lang*",
+                    "text": "lang",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "dde9617f7957018817b31a17f79570188",
+                    "cookieNamePattern": "VISITOR_INFO1_LIVE",
+                    "text": "VISITOR_INFO1_LIVE",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "a85817f79574290578f917f79574290",
+                    "cookieNamePattern": "^__gads*",
+                    "text": "__gads",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "ba5a717f7957a0041b4e5b17f7957a004",
+                    "cookieNamePattern": "IDE",
+                    "text": "IDE",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "a5c5417f79580cd91a4d8e17f79580cd9",
+                    "cookieNamePattern": "GPS",
+                    "text": "GPS",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "91f8017f79584dfed4f3f17f79584dfe",
+                    "cookieNamePattern": "YSC",
+                    "text": "YSC",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "8189a17f7958ba7514bf9c17f7958ba75",
+                    "cookieNamePattern": "fr",
+                    "text": "fr",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "a967617f7958ed89148bbb17f7958ed89",
+                    "cookieNamePattern": "^_fbp*",
+                    "text": "_fbp",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "2adf217f79593848df82617f79593848",
+                    "cookieNamePattern": "^_uetsid*",
+                    "text": "_uetsid",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "be86717f795974d81668b017f795974d8",
+                    "cookieNamePattern": "wfivefivec*",
+                    "text": "wfivefivec",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                },
+                {
+                    "cookie": "c3vNaN",
+                    "cookieID": "f016417f7959a6f110ed3b17f7959a6f1",
+                    "cookieNamePattern": "^_uetvid*",
+                    "text": "_uetvid",
+                    "value": "1",
+                    "version": "NaN",
+                    "example": "<p>&nbsp;<br></p>"
+                }
+            ],
+            "revocable": "1",
+            "category": "k3v6",
+            "title": "Cookies de Publicidad",
+            "value": "1"
+        },
+        {
+            "categoryTag": [
+                {
+                    "value": "ec_comercial"
+                },
+                {
+                    "value": "ec_comercial_admin"
+                },
+                {
+                    "value": "ec_rrhh"
+                },
+                {
+                    "value": "ec_rrhh_admin"
+                },
+                {
+                    "value": "ec_marketing"
+                },
+                {
+                    "value": "ec_marketing_admin"
+                },
+                {
+                    "value": "ec_asesoria"
+                }
+            ],
+            "defaultValue": "0",
+            "description": "<p>Estas cookies permiten que el sitio ofrezca una mejor funcionalidad y personalizaci\u00f3n. Pueden ser establecidas por nosotros o por terceras partes cuyos servicios hemos agregado a nuestras p\u00e1ginas. Si no permite estas cookies algunos de nuestros servicios no funcionar\u00e1n correctamente.</p>",
+            "cockies": [
+                {
+                    "cookie": "c0v1",
+                    "cookieID": "9a1b17f795b4466ca30217f795b4466",
+                    "cookieNamePattern": "Pruebas",
+                    "domains": [],
+                    "text": "Pruebas",
+                    "value": "1",
+                    "example": ""
+                }
+            ],
+            "revocable": "1",
+            "category": "k4v10",
+            "title": "Cookies de Personalizaci\u00f3n",
+            "value": "1"
+        }
+    ],
+    "cataloginfo": {
+        "blockEnabled": "1",
+        "discovery": "0",
+        "version": "55"
+    },
+    "welcomeText": "<p><span>Con el objetivo de ofrecerte una mejor experiencia de navegaci\u00f3n en el dominio y subdominios de las empresas del Grupo Aena hacemos uso de cookies propias y de terceros que nos ayudan a mejorar tu experiencia de navegaci\u00f3n, proteger tu privacidad y adaptarnos a tus preferencias. Utilizamos cookies de personalizaci\u00f3n, anal\u00edticas y publicitarias para elaborar perfiles basados en h\u00e1bitos de navegaci\u00f3n y mostrarte contenido \u00fatil. Puedes aceptar todas las cookies para todos nuestros dominios, pulsando el bot\u00f3n \u201cAceptar todas\u201d o configurarlas o rechazar su uso pulsando el bot\u00f3n \u201cPreferencias de cookies\". Para m\u00e1s informaci\u00f3n, accede a la&nbsp;<a href=\"https://www.aena.es/es/politica-de-cookies.html\" data-mce-href=\"https://www.aena.es/es/politica-de-cookies.html\">Pol\u00edtica de cookies</a></span><br></p>",
+    "headerText": "<p><span>Este es el configurador avanzado de cookies propias y de terceros. Aqu\u00ed puedes modificar par\u00e1metros que afectan directamente a tu experiencia de navegaci\u00f3n en el dominio y subdominios de Aena. Puedes permitir o rechazar los distintos tipos de cookies, y tras modificar los par\u00e1metros indicados confirmar tus preferencias, todo ello pulsando los botones indicados. Para obtener m\u00e1s informaci\u00f3n, acceda a nuestra </span><a class=\"privacy-notice-link\" href=\"https://www.aena.es/es/politica-de-cookies.html\" target=\"_blank\" rel=\"noopener\" aria-label=\"M\u00e1s informaci\u00f3n sobre su privacidad, se abre en una nueva pesta\u00f1a\" data-mce-href=\"https://www.aena.es/es/politica-de-cookies.html\" data-mce-tabindex=\"0\">Pol\u00edtica de cookies.</a></p><p><span>Al pulsar \u201cConfirmar\u201d, se&nbsp; guardar\u00e1 la selecci\u00f3n de cookies que hayas realizado. Si no has seleccionado ninguna opci\u00f3n, pulsar este bot\u00f3n equivaldr\u00e1 a rechazar todas las cookies, con excepci\u00f3n de las t\u00e9cnicas que no requieren tu aceptaci\u00f3n.</span></p><p><span></span><br></p>"
+}
