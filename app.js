@@ -1,4 +1,5 @@
 const express = require('express');
+const cookieParser = require('cookie-parser');
 const dataRoutes = require('./src/router/index')
 const morgan = require('morgan');
 const cors = require('cors');
@@ -7,19 +8,20 @@ const fs = require('fs');
 const dotenv = require('dotenv');
 dotenv.config();
 
-const server = express();
-server.use(cors());
-server.use(helmet());
-server.use(express.json());
-server.use(morgan('dev'));
-server.use(express.json());
+const app = express();
+app.use(cors());
+app.use(helmet());
+app.use(express.json());
+app.use(morgan('dev'));
+app.use(express.json());
+app.use(cookieParser());
 
-server.use(cors({
+app.use(cors({
   origin: 'http://ecookies_js.localhost',
   credentials: true, // Permite enviar cookies
 }));
-server.use('/api', dataRoutes);
+app.use('/api', dataRoutes);
 
 
 
-module.exports = server;
+module.exports = app;
